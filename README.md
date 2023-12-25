@@ -30,15 +30,7 @@ This is a simple implementation of a linked list in [Your Programming Language].
 
 3. [Additional steps if necessary, e.g., compiling, setting up dependencies]
 
-## Usage
 
-- [Provide code examples and explanations on how to use your linked list implementation.]
-
-```[Your Programming Language]
-// Example code demonstrating how to use the linked list.
-
-// [Your code here]
-```
 
 ## Contributing
 
