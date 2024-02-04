@@ -2,7 +2,7 @@
 ```markdown
 # Linked List Implementation
 
-This is a simple implementation of a linked list in [Your Programming Language]. The linked list is a fundamental data structure that consists of nodes connected together, where each node contains data and a reference to the next node in the sequence.
+This is a simple implementation of a linked list in C. The linked list is a fundamental data structure that consists of nodes connected together, where each node contains data and a reference to the next node in the sequence.
 
 ## Features
 
@@ -28,10 +28,6 @@ This is a simple implementation of a linked list in [Your Programming Language].
    cd linked-list
    ```
 
-3. [Additional steps if necessary, e.g., compiling, setting up dependencies]
-
-
-
 ## Contributing
 
 If you'd like to contribute to the project, please follow these steps:
@@ -46,9 +42,6 @@ If you'd like to contribute to the project, please follow these steps:
 
 This project is licensed under the MIT LICENSE - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- Mention any inspirations, tutorials, or tools that you used to create your linked list implementation.
 
 ```
 
